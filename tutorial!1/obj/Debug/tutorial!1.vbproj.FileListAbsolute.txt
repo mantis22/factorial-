@@ -1,0 +1,16 @@
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\bin\Debug\tutorial!1.exe.config
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\bin\Debug\tutorial!1.exe
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\bin\Debug\tutorial!1.pdb
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\bin\Debug\tutorial!1.xml
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\obj\Debug\tutorial!1.vbprojResolveAssemblyReference.cache
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\obj\Debug\MainWindow.g.vb
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\obj\Debug\Application.g.vb
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\obj\Debug\tutorial!1_MarkupCompile.cache
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\obj\Debug\tutorial!1_MarkupCompile.lref
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\obj\Debug\MainWindow.baml
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\obj\Debug\tutorial!1.g.resources
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\obj\Debug\tutorial_1.Resources.resources
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\obj\Debug\tutorial!1.vbproj.GenerateResource.Cache
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\obj\Debug\tutorial!1.exe
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\obj\Debug\tutorial!1.xml
+c:\users\aniba\documents\visual studio 2015\Projects\tutorial!1\tutorial!1\obj\Debug\tutorial!1.pdb
